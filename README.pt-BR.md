@@ -4,7 +4,7 @@
 
 Um projeto de machine learning que classifica textos em 6 emoções - **raiva, medo, alegria, amor, tristeza e surpresa** - usando pré-processamento de NLP e modelos clássicos de machine learning. Esse projeto inclui comparação de modelos, análise de erros e uma demo interativa em Streamlit.
 
-**Demo:** []
+**Demo:** [clique aqui](https://emotiondetectionnlp-plpbmudk8gbkebhjmdr8ov.streamlit.app/) | 
 **Dataset** [Kaggle - Emotion Detection on Text Dataset](https://www.kaggle.com/datasets/abhrajaiswal/emotions-detection-text-dataset)
 
 ---
@@ -132,7 +132,7 @@ Isso é uma consequência direta da naturaza bag-of-words do TF-IDF: cada palavr
 
 Um app interativo em Streamlit permite predição de emoções em tempo real a partir de texto inserido pelo usuário, usando o mesmo pipeline de limpeza e vetorização utilizado no treinamento.
 
-**Experimente aqui:** []
+[**Experimente aqui**](https://emotiondetectionnlp-plpbmudk8gbkebhjmdr8ov.streamlit.app/)
 
 Para rodar localmente:
 ```bash
